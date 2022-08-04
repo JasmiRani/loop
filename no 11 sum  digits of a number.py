@@ -1,5 +1,5 @@
 #.Write a program to find the sum of the digits of a number accepted from the user.
-a=int(input("enter number: "))
+a=input("enter number: ")
 i=0
 sum=0
 while i<len(a):
