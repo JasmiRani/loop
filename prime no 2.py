@@ -5,7 +5,7 @@ b=1
 while b<=a:
     if a%b==0:
         count=count+1
-   0x b=b+1
+    b=b+1
 if count==2:
     print("prime number")
 else:
